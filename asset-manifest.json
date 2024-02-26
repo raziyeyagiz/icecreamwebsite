@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/icecreamwebsite/static/css/main.a2f87774.css",
+    "main.js": "/icecreamwebsite/static/js/main.792d5696.js",
+    "static/js/453.819653ed.chunk.js": "/icecreamwebsite/static/js/453.819653ed.chunk.js",
+    "static/media/berry.jpeg": "/icecreamwebsite/static/media/berry.fa8cd8964e291185217a.jpeg",
+    "static/media/mult.jpeg": "/icecreamwebsite/static/media/mult.dc83ac5aa2a9a30c2886.jpeg",
+    "static/media/vanilla.jpg": "/icecreamwebsite/static/media/vanilla.0771fde681c7ea3866d0.jpg",
+    "static/media/logo1.jpg": "/icecreamwebsite/static/media/logo1.e838d10be667677b348e.jpg",
+    "static/media/multiple.jpeg": "/icecreamwebsite/static/media/multiple.5f1693e46a163b5e6490.jpeg",
+    "static/media/bluemoon.jpeg": "/icecreamwebsite/static/media/bluemoon.c9f0cee209c8d78ad56b.jpeg",
+    "static/media/oreo.jpeg": "/icecreamwebsite/static/media/oreo.02329e1d9d6c5f799d97.jpeg",
+    "static/media/unicorn.jpeg": "/icecreamwebsite/static/media/unicorn.e62e677cdf070b088c15.jpeg",
+    "static/media/cacao.webp": "/icecreamwebsite/static/media/cacao.38a448b5431692fb8eb2.webp",
+    "static/media/lemon.jpeg": "/icecreamwebsite/static/media/lemon.dff756b586dccedb451c.jpeg",
+    "static/media/pistachio.webp": "/icecreamwebsite/static/media/pistachio.9d58c60c9b85b34a9c50.webp",
+    "static/media/ic.avif": "/icecreamwebsite/static/media/ic.3cc7d2f9a08b0b8c4b9b.avif",
+    "index.html": "/icecreamwebsite/index.html",
+    "main.a2f87774.css.map": "/icecreamwebsite/static/css/main.a2f87774.css.map",
+    "main.792d5696.js.map": "/icecreamwebsite/static/js/main.792d5696.js.map",
+    "453.819653ed.chunk.js.map": "/icecreamwebsite/static/js/453.819653ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f87774.css",
+    "static/js/main.792d5696.js"
+  ]
+}
